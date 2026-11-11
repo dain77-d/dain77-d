@@ -13,21 +13,10 @@
 
 ---
 
-### 🧭 Now
-
-- 📚 **AI 공부 중** — 머신러닝·딥러닝을 차근차근 공부하고 있어요
-- 🤖 **NPU Agent** — FuriosaAI NPU 위에서 동작하는 에이전트
-
 ### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,pytorch,sklearn,git,github,vscode&perline=10" />
-</p>
-
-### 🧱 Contributions in 3D
-
-<p align="center">
-  <img src="./metrics.svg" alt="isometric contribution calendar" />
 </p>
 
 ### 👾 Pac-Man

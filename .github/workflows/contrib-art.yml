@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 15 * * *" # 매일 00:00 KST
   workflow_dispatch:
+  push: # 이 파일을 바꿔서 올릴 때도 바로 한 번 생성
+    branches: [main]
+    paths: [.github/workflows/contrib-art.yml]
 
 permissions:
   contents: write
