@@ -1,9 +1,9 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:7f5af0&height=220&section=header&text=dain77-d&fontColor=ffffff&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Data%20%C2%B7%20Time%20Series%20%C2%B7%20NPU%20Agents&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:7f5af0&height=220&section=header&text=dain77-d&fontColor=ffffff&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Studying%20AI%20%C2%B7%20ML%20%C2%B7%20NPU%20Agents&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <a href="https://github.com/dain77-d">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=%EC%8B%9C%EA%B3%84%EC%97%B4+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC+%EC%98%88%EC%B8%A1%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%93%88;NPU+%EC%9C%84%EC%97%90%EC%84%9C+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC+%EB%8F%8C%EB%A6%BD%EB%8B%88%EB%8B%A4+%F0%9F%A4%96" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=AI%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+%F0%9F%A4%96;%EB%AA%A8%EB%8D%B8%EC%9D%84+%EB%A7%8C%EB%93%A4%EA%B3%A0%2C+%EB%8F%8C%EB%A0%A4%EB%B3%B4%EA%B3%A0%2C+%EB%B6%80%EC%88%B4%EB%B4%85%EB%8B%88%EB%8B%A4+%F0%9F%A7%AA;NPU+%EC%9C%84%EC%97%90%EC%84%9C+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC+%EB%8F%8C%EB%A0%A4%EB%B4%85%EB%8B%88%EB%8B%A4+%E2%9A%A1" alt="typing" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🧭 Now
 
-- 📈 **Time Series** — 시계열 데이터 분석·예측 프로젝트
+- 📚 **AI 공부 중** — 머신러닝·딥러닝을 차근차근 공부하고 있어요
 - 🤖 **NPU Agent** — FuriosaAI NPU 위에서 동작하는 에이전트
 
 ### 🛠 Tech Stack
