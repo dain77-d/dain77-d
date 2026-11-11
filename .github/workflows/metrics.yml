@@ -1,0 +1,24 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "30 15 * * *" # 매일 00:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 개인 액세스 토큰(권한 없음, public 읽기만) → 레포 Settings > Secrets 에 METRICS_TOKEN 으로 등록
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # 시간대·활동 시간 노출 방지: habits / timezone 설정은 일부러 안 씀
