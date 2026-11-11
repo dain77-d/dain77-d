@@ -1,0 +1,32 @@
+name: repo-count
+
+on:
+  schedule:
+    - cron: "30 15 * * *" # 매일 00:30 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/repo-count.yml, scripts/repo_count.py]
+
+permissions:
+  contents: write
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: count repos
+        env:
+          REPO_COUNT_TOKEN: ${{ secrets.REPO_COUNT_TOKEN }}
+        run: python scripts/repo_count.py
+
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "repo-count: update"
+          git pull --rebase && git push
