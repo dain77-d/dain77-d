@@ -11,6 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=dain77-d&color=4fc3f7&style=flat-square&label=visitors" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdain77-d&query=%24.public_repos&label=Public%20Repos&color=4facfe&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Private_Repos-%3F-7f5af0?style=for-the-badge" />
+</p>
+
 ---
 
 ### 🛠 Tech Stack
