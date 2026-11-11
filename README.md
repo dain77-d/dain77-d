@@ -15,9 +15,17 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,pytorch,sklearn,git,github,vscode&perline=10" />
-</p>
+<div align="center">
+
+| | |
+|:-:|:-|
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,r" height="48" />  |
+| **AI · Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="48" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="28" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" height="48" />  |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="48" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" /> |
+| **Infra · Tools** | <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,vscode" height="48" />  |
+
+</div>
 
 ### 👾 Pac-Man
 
