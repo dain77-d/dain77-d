@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Private_Repos-%3F-7f5af0?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://solved.ac/randint01"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=randint01" alt="solved.ac" /></a>
+</p>
+
 ---
 
 ### 🛠 Tech Stack
